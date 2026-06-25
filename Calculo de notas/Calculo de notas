@@ -88,5 +88,7 @@ int main(){
         UOR();
     }
 	system("pause");
+	getchar();
+	getchar();
     return 0;
 }
